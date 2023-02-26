@@ -36,5 +36,5 @@ Navbar.propTypes = {
 
 Navbar.defaultProps = {
     title: 'Set Title Here',         // ye ek tarah se default title hai agar hm pass krna bhul jaye to.
-    AboutText: 'AboutText Here'
+    AboutText: 'About'
 }
